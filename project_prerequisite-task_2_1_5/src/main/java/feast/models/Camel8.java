@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class Camel8 {
     @Override
     public String toString() {
-        return "and finally a camel";
+        return "and cooked over a charcoal fire.";
     }
 }
